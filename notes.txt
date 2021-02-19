@@ -1,0 +1,5 @@
+Full Signup
+Login
+Image validate
+multiple delete in admin folder
+file remove
